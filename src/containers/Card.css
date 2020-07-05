@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'LobsterTwo';
+    font-style: normal;
+    font-weight: normal;
+    src: local('LobsterTwo'), url('lobstertworegular.woff') format('woff');
+    }
+
+h2 {
+    font-family: 'LobsterTwo';
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+p {
+    font-family: Garamond;
+    font-size: 1.1em;
+}
